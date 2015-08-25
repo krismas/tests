@@ -15,5 +15,12 @@ tests [feat-1]$ git remote -v
 origin	https://github.com/krismas/tests.git (fetch)
 origin	https://github.com/krismas/tests.git (push)
 
+## GHD
+- Clone avec Upstream
+- Branches
+- Synch
+- Commit
+- Push
+- Pas d'édtion, de tag
 
-Pas de Tag sous GHD
+Tout passe en mode "PR" ?
